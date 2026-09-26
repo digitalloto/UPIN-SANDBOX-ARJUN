@@ -1,6 +1,6 @@
 ---
 name: image-to-code
-description: Elite website image-to-code skill for Codex. For visually important web tasks, it must first generate the design image(s) itself, deeply analyze them, then implement the website to match them as closely as possible. In Codex, it must prefer large, readable, section-specific images instead of tiny compressed boards, generate fresh standalone images for sections or detail views instead of cropping old ones, avoid lazy under-generation, avoid cards-inside-cards-inside-cards UI, and keep the hero clean, spacious, readable, and visible on a small laptop.
+description: Elite image-to-code website design skill. Use this for ANY visual or frontend design task - building or redesigning a website, landing page, hero section, marketing page, portfolio, product page, UI, or component where visual quality matters. When image generation is available, it first generates design reference image(s), deeply analyzes them, then implements frontend to match them closely; when image generation is not available, it applies the same art-direction, analysis, and anti-AI-slop discipline as design guidance. Prefers large readable section-specific images over tiny compressed boards, avoids cards-inside-cards UI, and keeps the hero clean, spacious, and readable on a small laptop. Trigger keywords: design, website, landing page, hero, UI, frontend, redesign, make it look good, premium, aesthetic, mockup.
 ---
 
 # CORE DIRECTIVE: IMAGE-FIRST WEBSITE DESIGN TO CODE
